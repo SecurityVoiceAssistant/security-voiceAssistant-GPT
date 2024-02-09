@@ -1,6 +1,6 @@
 
 # Asistente virtual
-Este repositorio es el código para el video del Asistente Virtual en el canal Ringa Tech:
+Este repositorio es el código para el video del Asistente Virtual en el canal Ringa Tech de donde estoy probando el codigo:
 https://youtu.be/-0tIy8wWtzE
 
 ## Configuración
